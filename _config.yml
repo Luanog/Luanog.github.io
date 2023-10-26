@@ -5,14 +5,7 @@ description: Portifolio com projetos do analista de dados Luan nogueira
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 # User settings
 username: Luan Nogueira
-user_description: |
-  Com anos de experiência em E-commerce, BI e vendas, estou em transição para a área de Analista de Dados. Possuo uma sólida formação, incluindo uma certificação em Mecatrônica pelo IFSP, e estou atualmente realizando dois cursos pela EBAC, um focado em Power BI e outro em Análise de Dados em Python. 
-
-  Além disso, estou cursando Engenharia de Software. Minha experiência anterior inclui projetos em Python com bancos de dados em nuvem, onde utilizei minhas habilidades em Processos ETL, Desenvolvimento de Relatórios e Modelagem de Dados para extrair informações valiosas. 
-
-  Minha experiência em vendas e E-commerce me proporcionou uma visão prática das necessidades de negócios, permitindo-me compreender como a análise de dados pode impulsionar o sucesso empresarial. Fui honrado com o reconhecimento da Olimpíada Brasileira de Matemática em três ocasiões, destacando meu forte background quantitativo. 
-
-  Além disso, completei um curso complementar em Probabilidade e Estatística pela USP. Estou ansioso para aplicar minha experiência e conhecimento em projetos de BI, Projetos de ETL, Desenvolvimento de Relatórios, SQL Server e Análise de Dados em minha próxima jornada na área de Analista de Dados. Com uma base sólida em Business Intelligence e habilidades em integração de dados, estou preparado para contribuir de forma significativa em projetos de análise de dados.
+user_description: "Com anos de experiência em E-commerce, BI e vendas, estou em transição para a área de Analista de Dados.<br><br> Possuo uma sólida formação, incluindo uma certificação em Mecatrônica pelo IFSP, e estou atualmente realizando dois cursos pela EBAC, um focado em Power BI e outro em Análise de Dados em Python.<br><br> Além disso, estou cursando Engenharia de Software. Minha experiência anterior inclui projetos em Python com bancos de dados em nuvem, onde utilizei minhas habilidades em Processos ETL, Desenvolvimento de Relatórios e Modelagem de Dados para extrair informações valiosas.<br><br> Minha experiência em vendas e E-commerce me proporcionou uma visão prática das necessidades de negócios, permitindo-me compreender como a análise de dados pode impulsionar o sucesso empresarial. Fui honrado com o reconhecimento da Olimpíada Brasileira de Matemática em três ocasiões, destacando meu forte background quantitativo.<br><br> Além disso, completei um curso complementar em Probabilidade e Estatística pela USP. Estou ansioso para aplicar minha experiência e conhecimento em projetos de BI, Projetos de ETL, Desenvolvimento de Relatórios, SQL Server e Análise de Dados em minha próxima jornada na área de Analista de Dados. Com uma base sólida em Business Intelligence e habilidades em integração de dados, estou preparado para contribuir de forma significativa em projetos de análise de dados."
 user_title: Analista de Dados | BI | SQL | Python
 email: luannogueiraalice@gmail.com
 github_username: Luanog
